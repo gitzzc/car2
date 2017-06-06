@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CAR2.PcbDoc   2016/9/1  11:03:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : CAR2-Plated.TXT
+ASCII Non-Plated RoundHoles File : CAR2-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.508mm)                                           Round             33        PTH        5.66inch (143.78mm)
+T2      25mil (0.635mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             10        PTH        1.44inch (36.47mm)
+T4      35mil (0.9mm)                                             Round             13        PTH        1.67inch (42.31mm)
+T5      87mil (2.2mm)                                             Round             4         NPTH       3.11inch (79.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: M:\CBG\car2\Hardware\CAR2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=car2-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=car2-nonplated.txt|DrillLayers=gtl,gbl
