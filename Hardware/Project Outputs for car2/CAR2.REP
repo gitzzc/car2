@@ -46,8 +46,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D13
+    D16
+    D18
     D20
     D22
     D24
@@ -72,8 +72,8 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D10
-    D13
+    D16
+    D18
     D24
     D25
     D26
@@ -200,8 +200,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D40
-    D43
+    D46
+    D48
     D50
     D51
     D52
@@ -227,8 +227,8 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D10
-    D13
+    D16
+    D18
     D33
 *************************************************************
 
@@ -241,7 +241,7 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D22
-    D36
+    D37
     D39
 *************************************************************
 
@@ -275,7 +275,7 @@ Generating : Mechanical 15
 
 
 Used DCodes :
-    D36
+    D37
     D62
 *************************************************************
 
@@ -289,10 +289,23 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D36
+    D37
     D63
     D64
     D65
     D66
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CAR2.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D63
 *************************************************************
 
